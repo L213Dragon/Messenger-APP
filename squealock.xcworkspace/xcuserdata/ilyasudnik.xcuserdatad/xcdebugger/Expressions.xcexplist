@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__36-[LoginViewController loginPressed:]_block_invoke:LoginViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "accountDetails.city">
+            </PersistentString>
+            <PersistentString
+               value = "object.info.accountDetails.city">
+            </PersistentString>
+            <PersistentString
+               value = "accountDetails.liveChatEnabled">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GTLServiceUserDetailsWrapper location]:GTLServiceUserDetailsWrapper.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.cityId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__43-[SearchLocationViewController viewDidLoad]_block_invoke:SearchLocationViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SearchLocationViewController viewDidLoad]:SearchLocationViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__34-[UsersViewController viewDidLoad]_block_invoke:UsersViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.info">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProfileViewController saveProfile:]:ProfileViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_accountDetails.country">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[OptionsViewController updateUI]:OptionsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.utils.accountDetails.cityId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__36-[LoginViewController loginPressed:]_block_invoke_2:LoginViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SearchLocationViewController tableView:didSelectRowAtIndexPath:]:SearchLocationViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__54-[SearchLocationViewController searchPlacesWithQuery:]_block_invoke:SearchLocationViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

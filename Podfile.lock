@@ -1,0 +1,72 @@
+PODS:
+  - Batch (1.4)
+  - BFPaperButton (2.0.18):
+    - UIColor+BFPaperColors
+  - Firebase (2.5.1)
+  - Google/Analytics (1.0.7):
+    - Google/Core
+    - GoogleAnalytics (~> 3.12)
+  - Google/Core (1.0.7):
+    - GoogleNetworkingUtilities (~> 1.0)
+    - GoogleSymbolUtilities (~> 1.0)
+    - GoogleUtilities (~> 1.0)
+  - GoogleAnalytics (3.14.0)
+  - GoogleMaps (1.13.2)
+  - GoogleNetworkingUtilities (1.0.0):
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleSymbolUtilities (1.0.3)
+  - GoogleUtilities (1.1.0):
+    - GoogleSymbolUtilities (~> 1.0.0)
+  - GrowingTextViewHandler (1.0.3)
+  - IQKeyboardManager (3.3.4)
+  - JGActionSheet (1.0.5)
+  - JSQFlatButton (2.0.0)
+  - MBProgressHUD (0.9.1)
+  - OneSignal (1.13.3)
+  - SCLAlertView-Objective-C (1.0.3)
+  - Stripe (6.0.1):
+    - Stripe/Core (= 6.0.1)
+  - Stripe/Core (6.0.1)
+  - SVPullToRefresh (0.4.1)
+  - UIColor+BFPaperColors (1.7.2)
+
+DEPENDENCIES:
+  - Batch (~> 1.4)
+  - BFPaperButton (~> 2.0.18)
+  - Firebase (>= 2.5.0)
+  - Google/Analytics (~> 1.0.0)
+  - GoogleMaps
+  - GrowingTextViewHandler
+  - IQKeyboardManager
+  - JGActionSheet
+  - JSQFlatButton
+  - MBProgressHUD (~> 0.9.1)
+  - OneSignal
+  - SCLAlertView-Objective-C (~> 1.0)
+  - Stripe
+  - SVPullToRefresh
+
+SPEC CHECKSUMS:
+  Batch: 3bde61efdc056cafadd4ce65106354a3573b6a61
+  BFPaperButton: 16b3ec9c2964d24f89f623a4113321d3f003ed60
+  Firebase: 3565ea88b830f28f2c77ecc524622bc71a20d085
+  Google: 875f5a8ade86dd02e36586e4a54814843938c7f6
+  GoogleAnalytics: 9be1afdb8deeac4bb5f13ca7f7d3b9db2a1f43dc
+  GoogleMaps: b20a103ff307f58392e603cf142e59d7e30374c1
+  GoogleNetworkingUtilities: 292992ab31b7b4ba32809a0e8b40e324cdfb2c0c
+  GoogleSymbolUtilities: 82ad9f93d3615244b3f4ce440f5ab2515e8b4f56
+  GoogleUtilities: 8ed9134debe11719097881711464752900668f10
+  GrowingTextViewHandler: c59aa977a61de6eb10aac23969ac20b50b29f7ab
+  IQKeyboardManager: ac803e61e5b50efae6b3aeedd95a02c7c7d3b2b3
+  JGActionSheet: 2cfca820b57a11ec4b4a5655d45ee599fbeddc05
+  JSQFlatButton: 5b3c060688677cbb978ebeff38864ccf32298390
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  OneSignal: 434facae3389cb0d4d3fc57b9a6cf66db685205e
+  SCLAlertView-Objective-C: e83376218b431109dc5403adc63f8e9787db7b74
+  Stripe: 04f215191702c268b89fe0cdf28dc24a9688a71b
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+  UIColor+BFPaperColors: 03101fe6c10ed00c6daae7c26553f1de41500853
+
+PODFILE CHECKSUM: 8a45edff2064e0133b9f18e64247b9d8a8722b0b
+
+COCOAPODS: 1.0.1

@@ -1,0 +1,59 @@
+/* 
+  Localization.strings
+  squealock
+
+  Created by rjcristy on 8/15/15.
+  Copyright (c) 2015 Dariy Kordiyak. All rights reserved.
+*/
+"Error" = "Error";
+"OK" = "OK";
+"Emails do not match" = "Emails do not match";
+"Passwords do no match" = "Passwords do no match";
+"Text field(s) is empty" = "Text field(s) is empty";
+"Invalid user ID" = "Invalid user ID";
+"User not found" = "User not found";
+"Info" = "Info";
+"Registration info" = "Registration info";
+"Password Change" = "Password Change";
+"Login info" = "Login info";
+"User ID" = "User ID";
+"Message info" = "Message info";
+"Message sent" = "Message sent";
+"Sending failed" = "Sending failed";
+"Attachment info" = "Attachment info";
+"Image attached" = "Image attached";
+"Please enter a user ID" = "Please enter a user ID";
+"Please say something!" = "Please say something!";
+"ID Change" = "ID Change";
+"New message" = "New message";
+"Password not valid" = "Password needs to be at least 10 characters long and must include a character such as !@#$%^&*(), and a number.";
+"Enter text" = "Enter text";
+
+"error1" = "There was an error creating or loading the application's saved data.";
+"error2" = "Failed to initialize the application's saved data";
+"You made a screenshot!" = "You made a screenshot!";
+"PAY299" = "Pay $2.99 for a 1 year subscription";
+"PAY499" = "Pay $4.99 for a 2 year subscription (17% off)";
+"PAY699" = "Pay $6.99 for a 3 year subscription (22% off)";
+
+"Oops!" = "Oops!";
+"message1" = "You have consumed your 30 free Squealock messages. Subscribe to us!";
+"Maybe later" = "Maybe later";
+"Purchase Unsuccessful" = "Purchase Unsuccessful";
+"Your purchase failed. Please try again." = "Your purchase failed. Please try again.";
+"Warning" = "Warning";
+"iPhone users can still take screenshots. Continue?" = "iPhone users can still take screenshots. Continue?";
+"Cancel" = "Cancel";
+"Okay" = "Okay";
+"The operation could not be completed." = "The operation could not be completed.";
+"Done" = "Done";
+"Back" = "Back";
+
+"Existing User" = "Existing\nUser";
+"New User" = "New User";
+
+"RateTitle" = "Recommend Squealock";
+"RateDescription" = "Tell others what you think of the Squealock app by writing a quick review.";
+"RateNow" = "Rate It Now";
+"RateLater" = "Remind Me Later";
+"RateNever" = "No, Thanks";

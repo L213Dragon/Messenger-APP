@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7549" systemVersion="14D136" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Contact" representedClassName="PRODUCT_MODULE_NAME.Contact" syncable="YES">
+        <attribute name="contName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Message" representedClassName="PRODUCT_MODULE_NAME.Message" syncable="YES">
+        <attribute name="attchUsr" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fromUser" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="receivedMes" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="whenSent" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Message" positionX="-63" positionY="-18" width="128" height="105"/>
+        <element name="Contact" positionX="124" positionY="-9" width="128" height="60"/>
+    </elements>
+</model>

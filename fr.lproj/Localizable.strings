@@ -1,0 +1,203 @@
+
+/* No comment provided by engineer. */
+"All live users" = "Utilisateurs en ligne";
+
+/* No comment provided by engineer. */
+"Attachment info" = "Info";
+
+/* No comment provided by engineer. */
+"Back" = "Retour";
+
+/* No comment provided by engineer. */
+"Cancel" = "Annuler";
+
+/* No comment provided by engineer. */
+"Cities" = "Villes";
+
+/* No comment provided by engineer. */
+"Continents" = "Continents";
+
+/* No comment provided by engineer. */
+"Countries" = "Pays";
+
+/* No comment provided by engineer. */
+"Done" = "Terminé";
+
+/* No comment provided by engineer. */
+"Emails do not match" = "Les emails ne se correspondent pas.";
+
+/* No comment provided by engineer. */
+"Enter text" = "Entrez message";
+
+/* No comment provided by engineer. */
+"Error" = "Erreur";
+
+/* (No Commment) */
+"Existing User" = "Compte\nExistant";
+
+/* No comment provided by engineer. */
+"Female" = "Féminin";
+
+/* Error reason */
+"Function not implemented for the current algorithm" = "";
+
+/* No comment provided by engineer. */
+"Hey. I am now using this cool new app called Squealock. See for yourself. My user ID is %@. To download from Google Play or the AppStore, simply search for Squealock messenger and you can get it. Talk to you soon" = "Salut! J’utilise une superbe application de messagerie sécurisée Squealock. Faites-moi signe là-dessus, quand vous aurez du temps. Mon pseudo est %@. Pour télécharger sur Google Play ou l’Appstore, il suffit d’y chercher “Squealock”. Si vous utilisez un iPhone, c’est possible de ne pas le trouver dans l’Appstore Français (d’hommage). Essayez quand même. A bientôt!";
+
+/* No comment provided by engineer. */
+"ID Change" = "Info";
+
+/* Error reason */
+"Illegal parameter supplied to encryption/decryption algorithm" = "";
+
+/* No comment provided by engineer. */
+"Image attached" = "Image attachée.";
+
+/* No comment provided by engineer. */
+"Info" = "Info";
+
+/* (No Commment) */
+"Invalid user ID" = "Pseudo non valide";
+
+/* No comment provided by engineer. */
+"Login info" = "Info";
+
+/* No comment provided by engineer. */
+"Male" = "Masculin";
+
+/* No comment provided by engineer. */
+"Maybe later" = "Peut être après.";
+
+/* No comment provided by engineer. */
+"Message info" = "Info";
+
+/* No comment provided by engineer. */
+"Message sent" = "Message envoyé!";
+
+/* No comment provided by engineer. */
+"My profile" = "Mon profil";
+
+/* (No Commment) */
+"New User" = "Nouveau\nCompte";
+
+/* No comment provided by engineer. */
+"New message" = "Nouveau message";
+
+/* No comment provided by engineer. */
+"No one is online at this location." = "Personne n’est en ligne à cet endroit.";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Okay" = "OK";
+
+/* No comment provided by engineer. */
+"Oops!" = "Ops!";
+
+/* No comment provided by engineer. */
+"PAY299" = "Payer 2,99 $ pour un abonnement d’1 an.";
+
+/* No comment provided by engineer. */
+"PAY499" = "Payer 4,99 $ pour un abonnement de 2 ans (17% de rabais).";
+
+/* No comment provided by engineer. */
+"PAY699" = "Payer 6,99 $ pour un abonnement de 2 ans (22% de rabais).";
+
+/* No comment provided by engineer. */
+"Password Change" = "Info";
+
+/* No comment provided by engineer. */
+"Password not valid" = "Votre mot de passe doit être d'au moins 10 caractères, et doit inclure un caractère tel que  !@# $% ^ * (), et un nombre.";
+
+/* No comment provided by engineer. */
+"Passwords do no match" = "Les mots de passe ne se correspondent pas.";
+
+/* No comment provided by engineer. */
+"Pick location" = "Choisissez l’emplacement";
+
+/* No comment provided by engineer. */
+"Please enter a user ID" = "SVP entrez un pseudo.";
+
+/* No comment provided by engineer. */
+"Please say something!" = "SVP écrivez quelque chose!";
+
+/* No comment provided by engineer. */
+"Purchase Unsuccessful" = "L’achat n’a pas eu lieu.";
+
+/* No comment provided by engineer. */
+"RateDescription" = "Dites aux autres ce que vous pensez de Squealock en laissant une petite revue.";
+
+/* No comment provided by engineer. */
+"RateLater" = "Après";
+
+/* No comment provided by engineer. */
+"RateNever" = "Non merci";
+
+/* No comment provided by engineer. */
+"RateNow" = "Évaluer maintenant";
+
+/* No comment provided by engineer. */
+"RateTitle" = "Recommander Squealock";
+
+/* No comment provided by engineer. */
+"Registration info" = "Info";
+
+/* No comment provided by engineer. */
+"Save" = "Sauvegarder";
+
+/* (No Commment) */
+"Sending failed" = "Échec d’envoi.";
+
+/* No comment provided by engineer. */
+"Text field(s) is empty" = "Champ de texte vide.";
+
+/* No comment provided by engineer. */
+"The operation could not be completed." = "La tâche ne pourrait pas se faire compléter.";
+
+/* No comment provided by engineer. */
+"User ID" = "Pseudo";
+
+/* (No Commment) */
+"User not found" = "Pseudo inconnu.";
+
+/* No comment provided by engineer. */
+"Warning" = "Attention";
+
+/* (No Commment) */
+"You made a screenshot!" = "You made a screenshot!";
+
+/* No comment provided by engineer. */
+"Your purchase failed. Please try again." = "Votre achat ne s’est pas réalisé. Veuilliez réessayer svp.";
+
+/* No comment provided by engineer. */
+"error1" = "There was an error creating or loading the application's saved data.";
+
+/* No comment provided by engineer. */
+"error2" = "Failed to initialize the application's saved data";
+
+/* No comment provided by engineer. */
+"iPhone users can still take screenshots. Continue?" = "Les utiliseurs d’iPhone peuvent prendre des captures d’écran. Continuer?";
+
+/* No comment provided by engineer. */
+"message1" = "Vous avez consommé vos 30 messages gratuits de Squealock. Abonnez-vous à nous!";
+
+"Invite friends" = "Inviter des amis";
+
+"Browse live users" = "Voir utilisateurs en ligne";
+
+"Email Support" = "Écrivez-nous";
+
+"Browse all live users" = "Voir tout utilisateur en ligne";
+
+"Browse by continent" = "Naviguer par continent";
+
+"Browse by country" = "Naviguer par pays";
+
+"Browse by city" = "Naviguer par ville";
+
+"Donate Bitcoins" = "Donnez du Bitcoin";
+
+"Headline: %@" = "Introduction: %@";
+
+

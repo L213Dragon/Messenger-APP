@@ -1,0 +1,178 @@
+/* Class = "UILabel"; text = "Make yourself available to receive messages from users worldwide."; ObjectID = "0Mj-0C-z34"; */
+"0Mj-0C-z34.text" = "Torne-se disponível para receber mensagens de usuários em todo o mundo.";
+
+/* Class = "UILabel"; text = "Please enter your user ID and email address"; ObjectID = "1a0-Pq-a7k"; */
+"1a0-Pq-a7k.text" = "Por favor, insira seu ID de usuário e email";
+
+/* Class = "UILabel"; text = "Headline:"; ObjectID = "1zp-oU-T5p"; */
+"1zp-oU-T5p.text" = "Título:";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "2TI-5g-Ia7"; */
+"2TI-5g-Ia7.placeholder" = "Senha";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "3jU-o1-Y2P"; */
+"3jU-o1-Y2P.text" = "Subtitle";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "5sx-MT-OZk"; */
+"5sx-MT-OZk.placeholder" = "Senha";
+
+/* Class = "UIViewController"; title = "Browse users"; ObjectID = "9w9-vL-kuh"; */
+"9w9-vL-kuh.title" = "Procurar usuários";
+
+/* Class = "UIButton"; normalTitle = "Inbox"; ObjectID = "57h-VK-DtN"; */
+"57h-VK-DtN.normalTitle" = "Caixa de Entrada";
+
+/* Class = "UILabel"; text = "Please report any issues or send any feedbacks to:"; ObjectID = "92Y-fu-sTD"; */
+"92Y-fu-sTD.text" = "Por favor, comunique quaisquer problemas  para:";
+
+/* Class = "UILabel"; text = "Squealock ID (SLID):"; ObjectID = "Bzh-SV-t2M"; */
+"Bzh-SV-t2M.text" = "Squealock ID (SLID):";
+
+/* Class = "UITextField"; placeholder = "User ID"; ObjectID = "DKZ-UV-nGq"; */
+"DKZ-UV-nGq.placeholder" = "ID do usuário";
+
+/* Class = "UIButton"; normalTitle = "Compose"; ObjectID = "FRW-Fl-I1I"; */
+"FRW-Fl-I1I.normalTitle" = "Escrever";
+
+/* Class = "UILabel"; text = "Gender:"; ObjectID = "GDk-n5-3Wz"; */
+"GDk-n5-3Wz.text" = "Gênero:";
+
+/* Class = "UILabel"; text = "Squealock ID (SLID):"; ObjectID = "Huy-gN-M2s"; */
+"Huy-gN-M2s.text" = "Squealock ID (SLID):";
+
+/* Class = "UILabel"; text = "Remember me"; ObjectID = "IVI-SF-SEO"; */
+"IVI-SF-SEO.text" = "Lembrar";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "KZp-TU-LIJ"; */
+"KZp-TU-LIJ.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "User ID"; ObjectID = "KgT-aw-7xu"; */
+"KgT-aw-7xu.placeholder" = "ID do usuário";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "LfQ-1V-Iyh"; */
+"LfQ-1V-Iyh.text" = "Title";
+
+/* Class = "UITextField"; placeholder = "User ID"; ObjectID = "NkF-NV-HKB"; */
+"NkF-NV-HKB.placeholder" = "ID do usuário";
+
+/* Class = "UILabel"; text = "Age:"; ObjectID = "PQ9-9p-tgR"; */
+"PQ9-9p-tgR.text" = "Idade:";
+
+/* Class = "UITextField"; placeholder = "New password"; ObjectID = "S63-aO-OMi"; */
+"S63-aO-OMi.placeholder" = "Nova senha";
+
+/* Class = "UITextField"; placeholder = "Old User ID"; ObjectID = "SIi-lt-fAA"; */
+"SIi-lt-fAA.placeholder" = "Antigo ID de usuário";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "Shg-O0-FXx"; */
+"Shg-O0-FXx.normalTitle" = "Entrar";
+
+/* Class = "UILabel"; text = "For Media inquiries:"; ObjectID = "TAx-Z7-5Dn"; */
+"TAx-Z7-5Dn.text" = "Para consultas de mídia:";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "TBw-It-jpp"; */
+"TBw-It-jpp.normalTitle" = "Enviar";
+
+/* Class = "UIViewController"; title = "Pick Location"; ObjectID = "Tp5-DY-D9z"; */
+"Tp5-DY-D9z.title" = "Escolha localização";
+
+/* Class = "UITextField"; placeholder = "Temporary password"; ObjectID = "V3k-yc-S5K"; */
+"V3k-yc-S5K.placeholder" = "Senha temporária";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "V61-pI-AVN"; */
+"V61-pI-AVN.normalTitle" = "Enviar";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "VKB-UO-UiU"; */
+"VKB-UO-UiU.normalTitle" = "Registrar";
+
+/* Class = "UITabBarItem"; title = "Welcome"; ObjectID = "Vtu-6f-cOB"; */
+"Vtu-6f-cOB.title" = "Bem-vindo";
+
+/* Class = "UITextField"; placeholder = "Confirm new password"; ObjectID = "Vw4-OB-eHX"; */
+"Vw4-OB-eHX.placeholder" = "Confirme a nova senha";
+
+/* Class = "UITextField"; placeholder = "New User ID"; ObjectID = "WeI-Ji-JIW"; */
+"WeI-Ji-JIW.placeholder" = "Novo ID de usuário";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XBR-mA-fhJ"; */
+"XBR-mA-fhJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Go Live"; ObjectID = "aWX-aa-RYW"; */
+"aWX-aa-RYW.text" = "Vai online";
+
+/* Class = "UIButton"; normalTitle = "Set my own password"; ObjectID = "bDS-d0-d6Y"; */
+"bDS-d0-d6Y.normalTitle" = "Configurar própria senha";
+
+/* Class = "UIButton"; normalTitle = "Photo"; ObjectID = "bil-hY-8eu"; */
+"bil-hY-8eu.normalTitle" = "Photo";
+
+/* Class = "UITabBarItem"; title = "Register"; ObjectID = "bjW-Qs-pSj"; */
+"bjW-Qs-pSj.title" = "Registrar";
+
+/* Class = "UILabel"; text = "Headline:"; ObjectID = "c3b-Iz-SvE"; */
+"c3b-Iz-SvE.text" = "Título:";
+
+/* Class = "UIButton"; normalTitle = "Forgot password"; ObjectID = "e9W-PB-B2J"; */
+"e9W-PB-B2J.normalTitle" = "Esqueci a Senha";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "eIh-2d-9Tn"; */
+"eIh-2d-9Tn.placeholder" = "Senha";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "f9d-Ty-IIR"; */
+"f9d-Ty-IIR.text" = "Localização:";
+
+/* Class = "UITextField"; placeholder = "User ID"; ObjectID = "fIS-6B-ux8"; */
+"fIS-6B-ux8.placeholder" = "ID do usuário";
+
+/* Class = "UIButton"; normalTitle = "Message"; ObjectID = "fjc-3o-QyW"; */
+"fjc-3o-QyW.normalTitle" = "Escrever";
+
+/* Class = "UIViewController"; title = "Contact Us"; ObjectID = "gLY-2a-n8z"; */
+"gLY-2a-n8z.title" = "Escreva-nos";
+
+/* Class = "UIButton"; normalTitle = "Change ID"; ObjectID = "hRI-k8-us1"; */
+"hRI-k8-us1.normalTitle" = "Alterar ID";
+
+/* Class = "UIButton"; normalTitle = "Request a temporary password"; ObjectID = "jQZ-BM-HZk"; */
+"jQZ-BM-HZk.normalTitle" = "Solicitar senha temporária";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "k0d-Bg-kVk"; */
+"k0d-Bg-kVk.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Confirm Email"; ObjectID = "mlx-ln-DlB"; */
+"mlx-ln-DlB.placeholder" = "Confirme o email";
+
+/* Class = "UIViewController"; title = "My profile"; ObjectID = "muY-Ys-k4f"; */
+"muY-Ys-k4f.title" = "Meu perfil";
+
+/* Class = "UILabel"; text = "Thank you for your continued financial support in improving Squealock.
+\nPlease send donations to the following bitcoin address to support our cause:"; ObjectID = "o0g-Hj-sSe"; */
+"o0g-Hj-sSe.text" = "Obrigado por seu apoio financeiro contínuo na melhoria Squealock.\nPor favor, envie doações para o seguinte endereço bitcoin para apoiar a nossa causa:";
+
+/* Class = "UISearchBar"; placeholder = "Start typing location"; ObjectID = "ou4-Oi-dJf"; */
+"ou4-Oi-dJf.placeholder" = "Comece a digitar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pGj-ZO-mgl"; */
+"pGj-ZO-mgl.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "User ID"; ObjectID = "s1p-wc-GDc"; */
+"s1p-wc-GDc.placeholder" = "ID do usuário";
+
+/* Class = "UIViewController"; title = "Donate Bitcoins"; ObjectID = "v9k-83-SgK"; */
+"v9k-83-SgK.title" = "Doe Bitcoins";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "var-TA-cfc"; */
+"var-TA-cfc.normalTitle" = "Send";
+
+/* Class = "UIViewController"; title = "Options"; ObjectID = "xFS-VE-dvP"; */
+"xFS-VE-dvP.title" = "Opções";
+
+/* Class = "UIButton"; normalTitle = "Change my user ID"; ObjectID = "yJT-tr-a3b"; */
+"yJT-tr-a3b.normalTitle" = "Alterar ID de usuário";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "yhN-al-gcj"; */
+"yhN-al-gcj.placeholder" = "Confirme a senha";
+
+/* Class = "UILabel"; text = "For business inquiries:"; ObjectID = "z8U-FE-SMa"; */
+"z8U-FE-SMa.text" = "Para inquéritos de negócios:";
+
